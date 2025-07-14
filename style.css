@@ -388,6 +388,7 @@ html{
   display: flex;
   align-items: center;
   justify-content: center;
+  gap: 50px;
 }
 #projects .proj img {
   width: 200px;
@@ -412,8 +413,9 @@ html{
  margin-left: 400px;
 } */
 .proj p{
-  margin-left: 280px;
+  margin-left: 10px;
 }
+
 ::-webkit-scrollbar{
     width: 10px;
     border-radius: 10px;
